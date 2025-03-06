@@ -1,3 +1,12 @@
 /playground.ipynb
 /icog
 /sparsity_task/seg_pred
+/sparsity_task/seg_test
+/dataset*
+/sparsity_task/seg_train
+
+/tomato-leaf-disease-classification/dataset_prediction
+/tomato-leaf-disease-classification/dataset_tomato_diseases
+/tomato-leaf-disease-classification/dataset_tomato_vs_non_tomato
+
+C:\Users\CompUser\Documents\GitHub\iCog-Task\
